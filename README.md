@@ -1,2 +1,13 @@
-# StockPrediction
-CourseWork
+# StockPrediction CourseWork
+
+1) experimental_models - экспериментальные модели, которые реализованы, но не использованы
+
+2) latest_data - последние скачанные данные для обучения и тестов
+
+3) LSTM_results - результаты LSTM моделей
+
+3) MLP_results - результаты MLP моделей
+
+4) working_models - тренировка и эксперементы с моделями нейронных сетей
+
+5) ML_Visualisation - обучение алгоритмов машинного обучения + визуализация
